@@ -1,5 +1,5 @@
 # OpenCV-Snake
-![Snake Logo](assets\logo.png)
+![Snake Logo](assets/logo.png)
  
  OpenCV-Snake is a simple game of Snake implemented using OpenCV.
  
