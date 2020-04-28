@@ -1,6 +1,6 @@
 //This is a game of Snake.
 //Developed by Miguel Agueda-Cabral.
-//Free for all to use, copy, modify, distribute, and generate profit.
+//Free for all to use, copy, modify, and distribute.
 
 
 #include <opencv2/opencv.hpp>
